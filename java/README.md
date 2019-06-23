@@ -12,4 +12,6 @@
 
 - [Java 8 in Action by Raoul-Gabriel Urma | Goodreads](https://www.goodreads.com/book/show/20534354-java-8-in-action?ac=1&from_search=true)
 
+- [Advanced Design and Implementation of Virtual Machines by Xiao-Feng Li | Goodreads](https://www.goodreads.com/book/show/20607837-advanced-design-and-implementation-of-virtual-machines?ac=1&from_search=true)
+
 
