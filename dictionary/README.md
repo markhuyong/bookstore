@@ -3,4 +3,6 @@
 
 - [Longman Language Activator: Helps You Write and Speak Natural English by Addison Wesley Longman | Goodreads](https://www.goodreads.com/book/show/301200.Longman_Language_Activator?from_search=true)
 
+- [Longman Lexicon of Contemporary English by Tom McArthur | Goodreads](https://www.goodreads.com/book/show/1274649.Longman_Lexicon_of_Contemporary_English?ac=1&from_search=true)
+
 
