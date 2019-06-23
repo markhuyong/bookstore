@@ -8,3 +8,6 @@
 
 - [Java SE Specifications](https://docs.oracle.com/javase/specs/index.html)
 
+- [Java Performance by Charlie Hunt | Goodreads](https://www.goodreads.com/book/show/13227108-java-performance?ac=1&from_search=true)
+
+
