@@ -5,4 +5,6 @@
 
 - [Longman Lexicon of Contemporary English by Tom McArthur | Goodreads](https://www.goodreads.com/book/show/1274649.Longman_Lexicon_of_Contemporary_English?ac=1&from_search=true)
 
+- [Word by Word Picture Dictionary by Steven J. Molinsky | Goodreads](https://www.goodreads.com/book/show/2288326.Word_by_Word_Picture_Dictionary?from_search=true)
+
 
