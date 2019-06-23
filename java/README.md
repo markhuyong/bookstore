@@ -5,3 +5,6 @@
 - [Effective Java by Stanley Prata | Goodreads](https://www.goodreads.com/book/show/40227500-effective-java?ac=1&from_search=true)
 
 - [The Java Language Specification](https://docs.oracle.com/javase/specs/jls/se10/jls10.pdf) by James Gosling, Bill Joy, Guy L. Steele Jr., Gilad Bracha and Alex Buckley
+
+- [Java SE Specifications](https://docs.oracle.com/javase/specs/index.html)
+
