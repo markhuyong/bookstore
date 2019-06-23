@@ -10,4 +10,6 @@
 
 - [Java Performance by Charlie Hunt | Goodreads](https://www.goodreads.com/book/show/13227108-java-performance?ac=1&from_search=true)
 
+- [Java 8 in Action by Raoul-Gabriel Urma | Goodreads](https://www.goodreads.com/book/show/20534354-java-8-in-action?ac=1&from_search=true)
+
 
